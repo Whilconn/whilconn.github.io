@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwhilconn_github_io=self.webpackChunkwhilconn_github_io||[]).push([[71155],{27840:a=>{a.exports=JSON.parse('{"label":"\u72b6\u6001\u538b\u7f29","permalink":"/algorithm/tags/\u72b6\u6001\u538b\u7f29","allTagsPath":"/algorithm/tags","count":1}')}}]);

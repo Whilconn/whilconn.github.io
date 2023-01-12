@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwhilconn_github_io=self.webpackChunkwhilconn_github_io||[]).push([[99640],{32257:t=>{t.exports=JSON.parse('{"title":"HTML","description":"HTML","slug":"/category/html","permalink":"/docs/category/html","navigation":{"previous":{"title":"\u7b80\u4ecb","permalink":"/docs/"},"next":{"title":"\u7b80\u4ecb","permalink":"/docs/html/html"}}}')}}]);
