@@ -4,10 +4,18 @@
         <title>D9笔记 Blog</title>
         <link>https://whilconn.github.io/blog</link>
         <description>D9笔记 Blog</description>
-        <lastBuildDate>Fri, 16 Dec 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[前端死了吗]]></title>
+            <link>https://whilconn.github.io/blog/2023/05/30/fe-death</link>
+            <guid>https://whilconn.github.io/blog/2023/05/30/fe-death</guid>
+            <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p><img loading="lazy" src="/assets/images/fe-death-66699e73d2898bee91977b22f31ac5a0.png" width="2188" height="11182" class="img_ev3q"></p>]]></content:encoded>
+            <category>前端</category>
+        </item>
         <item>
             <title><![CDATA[Chrome将全面移除Event.path]]></title>
             <link>https://whilconn.github.io/blog/2022/12/16/Chrome将全面移除Event.path</link>

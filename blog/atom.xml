@@ -2,11 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://whilconn.github.io/blog</id>
     <title>D9笔记 Blog</title>
-    <updated>2022-12-16T00:00:00.000Z</updated>
+    <updated>2023-05-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://whilconn.github.io/blog"/>
     <subtitle>D9笔记 Blog</subtitle>
     <icon>https://whilconn.github.io/img/avatar.png</icon>
+    <entry>
+        <title type="html"><![CDATA[前端死了吗]]></title>
+        <id>https://whilconn.github.io/blog/2023/05/30/fe-death</id>
+        <link href="https://whilconn.github.io/blog/2023/05/30/fe-death"/>
+        <updated>2023-05-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p><img loading="lazy" src="/assets/images/fe-death-66699e73d2898bee91977b22f31ac5a0.png" width="2188" height="11182" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Whilconn</name>
+            <uri>https://github.com/Whilconn</uri>
+        </author>
+        <category label="前端" term="前端"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chrome将全面移除Event.path]]></title>
         <id>https://whilconn.github.io/blog/2022/12/16/Chrome将全面移除Event.path</id>
