@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwhilconn_github_io=self.webpackChunkwhilconn_github_io||[]).push([[39972],{93364:e=>{e.exports=JSON.parse('{"permalink":"/algorithm/tags/\u8ba1\u6570/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":13,"previousPage":"/algorithm/tags/\u8ba1\u6570","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
