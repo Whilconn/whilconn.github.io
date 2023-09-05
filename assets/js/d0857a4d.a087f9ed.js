@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwhilconn_github_io=self.webpackChunkwhilconn_github_io||[]).push([[89585],{32557:e=>{e.exports=JSON.parse('{"label":"Vite","permalink":"/blog/tags/vite","allTagsPath":"/blog/tags","count":1}')}}]);
